@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "668948133821",
+    "firebase_url": "https://fir-opet-93836.firebaseio.com",
+    "project_id": "fir-opet-93836",
+    "storage_bucket": "fir-opet-93836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668948133821:android:1b31aae34bb64489",
+        "android_client_info": {
+          "package_name": "br.com.opet.tds.firebaseopet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668948133821-8c0ad6cenq17hvvkub1mlrnq5j3dsgh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.opet.tds.firebaseopet",
+            "certificate_hash": "2e156fa24508ad194a99c274d5848d2c41b61d77"
+          }
+        },
+        {
+          "client_id": "668948133821-o6vev0jc3v8dagu4ieaalvv186373p59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkm7zumjN4q-l9zccjLHMLkZ3x36RzAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668948133821-o6vev0jc3v8dagu4ieaalvv186373p59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
